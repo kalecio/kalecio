@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **kalecio/kalecio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -37,7 +36,6 @@ Here are some ideas to get you started:
 ### 🤝🏻 Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/kalecio/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rafael%20Brito%20Gomes-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:me@gomex.me"><img alt="Email" src="https://img.shields.io/badge/LinkedIn-Kal%C3%A9cio%20Pereira-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/kalecio/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kal%C3%A9cio%20Pereira-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:contato@kalecio.dev"><img alt="Email" src="https://img.shields.io/badge/Email-contato@kalecio.dev-blue?style=flat-square&logo=gmail"></a>
 </p>
-
