@@ -14,3 +14,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi there, I'm Kalécio Pereira 👋
+
+<!--
+
+### 👨🏻‍💻 About Me
+
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 💼 &nbsp; Working as a DevOps Engineer at DNSFilter.
+- 🌱 &nbsp; Learning more about Cloud Architecture, IaC and Sofware Development.
+
+### 🛠 Tech Stack
+
+- 💻 &nbsp; Docker | Ansible | Terraform | Kubernetes | Packer
+- 🛢 &nbsp; Postgres | TimescaleDB
+- 🔧 &nbsp; Git | Markdown
+-->
+
+[![Kalecio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kalecio&show_icons=true)](https://github.com/kalecio)
+
+### 🤝🏻 Connect with Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/kalecio/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rafael%20Brito%20Gomes-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:me@gomex.me"><img alt="Email" src="https://img.shields.io/badge/LinkedIn-Kal%C3%A9cio%20Pereira-blue?style=flat-square&logo=linkedin"></a>
+</p>
+
