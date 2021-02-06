@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 [![Kalecio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kalecio&show_icons=true)](https://github.com/kalecio)
 
+[![Kalecio's most used Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kalecio)](https://github.com/kalecio)
+
 ### 🤝🏻 Connect with Me
 
 <p align="center">
